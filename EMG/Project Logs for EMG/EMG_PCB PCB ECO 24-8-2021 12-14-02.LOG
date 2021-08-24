@@ -1,0 +1,56 @@
+Added Component: Designator=J4(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=J4-2
+Added Pin To Net: NetName=7 Pin=U1-7
+Added Net: Name=7
+Added Pin To Net: NetName=8 Pin=J4-8
+Added Pin To Net: NetName=8 Pin=U1-8
+Added Net: Name=8
+Added Pin To Net: NetName=9 Pin=U1-9
+Added Net: Name=9
+Added Pin To Net: NetName=11 Pin=U1-11
+Added Net: Name=11
+Added Pin To Net: NetName=12 Pin=U1-12
+Added Net: Name=12
+Added Pin To Net: NetName=13 Pin=U1-13
+Added Net: Name=13
+Added Pin To Net: NetName=14 Pin=U1-14
+Added Net: Name=14
+Added Pin To Net: NetName=15 Pin=U1-15
+Added Net: Name=15
+Added Pin To Net: NetName=16 Pin=U1-16
+Added Net: Name=16
+Added Pin To Net: NetName=17 Pin=U1-17
+Added Net: Name=17
+Added Pin To Net: NetName=18 Pin=U1-18
+Added Net: Name=18
+Added Pin To Net: NetName=19 Pin=U1-19
+Added Net: Name=19
+Added Pin To Net: NetName=20 Pin=U1-20
+Added Net: Name=20
+Added Pin To Net: NetName=21 Pin=U1-21
+Added Net: Name=21
+Added Pin To Net: NetName=23 Pin=U1-23
+Added Net: Name=23
+Added Pin To Net: NetName=24 Pin=U1-24
+Added Net: Name=24
+Added Pin To Net: NetName=25 Pin=U1-25
+Added Net: Name=25
+Added Pin To Net: NetName=26 Pin=U1-26
+Added Net: Name=26
+Added Pin To Net: NetName=27 Pin=U1-27
+Added Net: Name=27
+Added Pin To Net: NetName=28 Pin=U1-28
+Added Net: Name=28
+Added Pin To Net: NetName=RST Pin=J4-1
+Added Pin To Net: NetName=RST Pin=U1-1
+Added Net: Name=RST
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm

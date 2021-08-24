@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=U2 Old Footprint=MYOWARE_FOOTPRINT_V2 New Footprint=Myoware_footprint_v3
+Change Component Library : Designator=U2 Old Library=SnapEDA_Library.IntLib New Library=Myoware.SchLib

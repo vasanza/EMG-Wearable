@@ -1,0 +1,18 @@
+Added Component: Designator=J4(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=RST Pin=J4-1
+Added Pin To Net: NetName=VCC Pin=J4-2
+Added Pin To Net: NetName=8 Pin=J4-8
+Added Pin To Net: NetName=17 Pin=J5-17
+Added Pin To Net: NetName=18 Pin=J5-18
+Added Pin To Net: NetName=19 Pin=J5-19
+Added Pin To Net: NetName=20 Pin=J5-20
+Added Pin To Net: NetName=21 Pin=J5-21
+Added Pin To Net: NetName=23 Pin=J5-23
+Added Pin To Net: NetName=24 Pin=J5-24
+Added Pin To Net: NetName=25 Pin=J5-25
+Added Pin To Net: NetName=26 Pin=J5-26
+Added Pin To Net: NetName=27 Pin=J5-27
+Added Pin To Net: NetName=28 Pin=J5-28

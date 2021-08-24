@@ -1,0 +1,11 @@
+Added Component: Designator=U1(ESP32-Feather-footprint_v2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U*(Myoware_footprint_v1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=SIG Pin=U1-22
+Added Pin To Net: NetName=VCC Pin=U*-1
+Added Pin To Net: NetName=GND Pin=U*-2
+Added Pin To Net: NetName=SIG Pin=U*-3
+Added Pin To Net: NetName=GND Pin=U*-9

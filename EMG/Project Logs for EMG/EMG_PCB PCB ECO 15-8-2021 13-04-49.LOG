@@ -1,0 +1,4 @@
+Added Component: Designator=U1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
