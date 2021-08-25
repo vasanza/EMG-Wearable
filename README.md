@@ -1,5 +1,7 @@
 # EMG
 Altium Designer for Electromyography (EMG)
+![image](https://user-images.githubusercontent.com/12642226/130822098-358c494d-9e2c-4d9f-90cf-2cf651de3a7d.png)
+
 # Board Shape
 ![BoardShape](https://user-images.githubusercontent.com/12642226/130655442-c3f821e9-4229-4164-b2f0-26a11ce1cb3b.png)
 # Keep-out-layer
