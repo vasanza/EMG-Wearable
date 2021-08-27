@@ -7,7 +7,7 @@ Altium Designer for Electromyography (EMG)
 # Keep-out-layer
 ![Keep-out-layer](https://user-images.githubusercontent.com/12642226/130655492-6c86943e-316e-445e-9294-b612c161f426.png)
 # Polygon Action -> Repour All
-![RebuildPologonon](https://user-images.githubusercontent.com/12642226/130655550-07223fae-1d64-4ae2-a783-02390f2e5968.png)
+![image](https://user-images.githubusercontent.com/12642226/131151985-c3abd9c0-5c7f-4072-8646-9ef61303c02f.png)
 # Verification (use: Shift+S)
 ![image](https://user-images.githubusercontent.com/12642226/130656780-6d9da874-7362-4886-af2e-12d53c85605c.png)
 
