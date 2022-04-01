@@ -114,11 +114,11 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - **IDE:** [Arduino](https://vasanza.blogspot.com/2021/10/practica-1-tsclab-initial-setups-and.html)
 - **DEVICE:** [ESP32](https://vasanza.blogspot.com/2020/03/materia-desarrollo-de-prototipos.html)
 - **MYOWARE SENSOR:**
--- [User Manual](https://cdn.sparkfun.com/assets/a/3/a/f/a/AT-04-001.pdf)
--- [MyoWare Sensor & Shields Guide](https://learn.sparkfun.com/tutorials/myoware-muscle-sensor-kit?_ga=2.109496709.1662346579.1648800911-1977687308.1648101270)
--- [Conductive Fabric Electrodes](http://www.advancertechnologies.com/2013/03/diy-conductive-fabric-electrodes.html)
--- [Arduino Example Code](https://cdn.sparkfun.com/assets/e/8/e/a/d/MyoWareSampleCode.zip)
--- [GitHub (Example Code & Design Files)](https://github.com/AdvancerTechnologies/MyoWare_MuscleSensor)
+  - [User Manual](https://cdn.sparkfun.com/assets/a/3/a/f/a/AT-04-001.pdf)
+  - [MyoWare Sensor & Shields Guide](https://learn.sparkfun.com/tutorials/myoware-muscle-sensor-kit?_ga=2.109496709.1662346579.1648800911-1977687308.1648101270)
+  - [Conductive Fabric Electrodes](http://www.advancertechnologies.com/2013/03/diy-conductive-fabric-electrodes.html)
+  - [Arduino Example Code](https://cdn.sparkfun.com/assets/e/8/e/a/d/MyoWareSampleCode.zip)
+  - [GitHub (Example Code & Design Files)](https://github.com/AdvancerTechnologies/MyoWare_MuscleSensor)
 
 ## About
 - [Víctor Asanza](https://vasanza.blogspot.com/p/about-me.html)
