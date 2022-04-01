@@ -120,17 +120,21 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 
 # Related work (FPGA applications)
 - [#EMG signal #Classification with #MachineLearning based on #FPGA](https://vasanza.blogspot.com/2021/01/emg-signal-processing-with.html)
+- [#EEG + #EMG signal processing with #MachineLearning #ML based on #FPGA](https://vasanza.blogspot.com/2021/03/eeg-emg-signal-processing-with.html)
+- [Alphabet letters recognition with #MachineLearning using #EMG #MYO device based on #FPGA](https://vasanza.blogspot.com/2021/01/alphabet-letters-recognition-with.html)
 
 # IDE
-- Arduino
-- https://vasanza.blogspot.com/2021/10/practica-1-tsclab-initial-setups-and.html
+- [Arduino](https://vasanza.blogspot.com/2021/10/practica-1-tsclab-initial-setups-and.html)
 
 # DEVICE
 - [ESP32](https://vasanza.blogspot.com/2020/03/materia-desarrollo-de-prototipos.html)
 
-# HARDWARE TERASIC 
-- DE10NANO
-- DE10STANDARD
+# MYOWARE SENSOR
+- [User Manual](https://cdn.sparkfun.com/assets/a/3/a/f/a/AT-04-001.pdf)
+- [MyoWare Sensor & Shields Guide](https://learn.sparkfun.com/tutorials/myoware-muscle-sensor-kit?_ga=2.109496709.1662346579.1648800911-1977687308.1648101270)
+- [Conductive Fabric Electrodes](http://www.advancertechnologies.com/2013/03/diy-conductive-fabric-electrodes.html)
+- [Arduino Example Code](https://cdn.sparkfun.com/assets/e/8/e/a/d/MyoWareSampleCode.zip)
+- [GitHub (Example Code & Design Files)](https://github.com/AdvancerTechnologies/MyoWare_MuscleSensor)
 
 # Keynote
 ## CLONE
