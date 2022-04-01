@@ -118,7 +118,7 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 ## About
 - [Víctor Asanza](https://vasanza.blogspot.com/p/about-me.html)
 
-# Related work (FPGA applications)
+# Related work (EMG applications)
 - [#EMG signal #Classification with #MachineLearning based on #FPGA](https://vasanza.blogspot.com/2021/01/emg-signal-processing-with.html)
 - [#EEG + #EMG signal processing with #MachineLearning #ML based on #FPGA](https://vasanza.blogspot.com/2021/03/eeg-emg-signal-processing-with.html)
 - [Alphabet letters recognition with #MachineLearning using #EMG #MYO device based on #FPGA](https://vasanza.blogspot.com/2021/01/alphabet-letters-recognition-with.html)
