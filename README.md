@@ -1,6 +1,5 @@
 # ⭐⭐⭐⭐⭐ Electromyography (EMG)
-**En este repositorio puedes encontrar códigos de bloques de Mediana Escala de Integración (MSI) para utilizar en tus diseños digitales.
-Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán útiles para el diseño de Sistemas Digitales:**
+**En este repositorio puedes encontrar el diseño de hardware para lectura de datos de Electromiografía (EMG). Además, te recomendamos revisar estos enlaces a videos y ejemplos que te serán útiles para entender el proposito de las señales EMG.**
 ![image](https://user-images.githubusercontent.com/12642226/130822098-358c494d-9e2c-4d9f-90cf-2cf651de3a7d.png)
 
 # Board Shape
@@ -15,7 +14,8 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 # is ready!
 ![EMG](https://user-images.githubusercontent.com/12642226/130655623-b489c470-55d8-461a-a40c-9fdc25498eb5.PNG)
 
-## 1. Puertas lógicas y Circuitos Combinatoriales
+# Contenido
+## 1. Señales EMG
 - [Video 1](https://www.youtube.com/watch?v=fiQaocvqg9M&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=4393s):  Introducción a los Sistemas Digitales.
 - [Video 2](https://www.youtube.com/watch?v=RsQSRA2K-R0&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=2876s): Ejercicios resueltos de Sistemas Digitales.
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-analisis-de-circuitos.html): Análisis de Circuitos Combinatoriales.
@@ -93,11 +93,9 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - [Ejemplo 3](https://vasanza.blogspot.com/2015/12/sistema-acondicionamiento-de.html): Temperature Conditioner.
 - [Ejemplo 4](https://vasanza.blogspot.com/2015/12/sistema-de-facturacion-por-llamadas-en.html): Billing system for telephone booths.
 
-# Información adicional
-## Drive con Presentaciones, ejemplos resueltos y videos
-- [Fundamentos de Electricidad y Sistemas Digitales](https://drive.google.com/drive/folders/1KAmU-P6vH2EvedHtexWdH7nW-hQ2_KBn).
-- [Sistemas Digitales 1](https://drive.google.com/drive/folders/1rR92F8U77Ulfhpvhh-KSyb3jAtxpDBdQ).
-- [Sistemas Digitales 2](https://drive.google.com/drive/folders/1OLkaLyrg0m6C0qMVIEzXFI1smsw7YWdG).
+# Dataset
+## EMG
+- [Víctor Asanza, Jesús Miranda, Nathaly Sánchez, Enrique Peláez, Diego Hernan Peluffo-Ordóñez, March 10, 2021, "Electromyography (EMG) of the Extraocular Muscles (EOM)", IEEE Dataport, doi: https://dx.doi.org/10.21227/bhpj-mz94.](https://ieee-dataport.org/open-access/electromyography-emg-extraocular-muscles-eom).
 
 ## Related work (FPGA applications)
 - **Paper 1:** [Performance Comparison of Database Server based on SoC FPGA and ARM Processor](https://ieeexplore.ieee.org/document/9647742)
