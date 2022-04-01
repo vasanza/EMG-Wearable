@@ -86,42 +86,6 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - [Ejercicios resueltos 2](https://vasanza.blogspot.com/2020/12/solucion-evaluacion-sistemas-digitales.html): Programación VHDL de una MSS e implementación usando la EPROM M2732A.
 - [Ejercicios resueltos 3](https://vasanza.blogspot.com/2021/11/solucion-leccion-sistemas-digitales-2.html): Implementación de una MSS usando la EPROM M2732A para obtener diagrama de estados y VHDL.
 
-## 6. Dieño Formal de Sistemas Digitales (SD)
-- [Video 1](https://www.youtube.com/watch?v=suKzo0FqlgA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15): Introducción al diseño formal de SD (MSI + MSS)
-- [Post](https://vasanza.blogspot.com/2016/12/resumen-de-pasos-en-implementacion-de.html): Pasos para el diseño formal un Sistema Digital.
-- [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2018PAO2/OrdenarRegistrosVHDL): Ordenamiento de Registros.
-- [Ejercicios resueltos 1](https://vasanza.blogspot.com/2021/12/solucion-examen-sistemas-digitales-2.html): Busqueda de los valores máximo y mínimo almacenados en 3 registros.
-- [Ejercicios resueltos 2](https://vasanza.blogspot.com/2018/09/solucion-examen-sistemas-digitales-2_14.html): Multiplicador de dos números de n bits.
-
-## 7. Aplicaciones con memorias RAM
-- [Video 1](https://www.youtube.com/watch?v=tX9d0Zn8ujc&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=14&t=3s): Extracción de Características Post-Adquisición de Datos Temporales.
-- [Repositorio 1](https://github.com/vasanza/DigitalSystems/tree/main/Example_MaxToMin_ordering_in_RAM): Ordenamiento de valores de una RAM de Mayor a Menor.
-- [Repositorio 2](https://github.com/vasanza/DigitalSystems/tree/2021PAO1/Ejemplo3_BuscadorMaxRep): Busqueda del valor que más se repite en una RAM.
-- [Ejercicios propuestos 1](https://vasanza.blogspot.com/2016/12/ejercicios-propuestos-sd-msa-2do-parcial.html): **Las mejores aplicaciones con memorias RAM** tal como algoritmos de busqueda, operaciones entre conjuntos, comunicación serial, matrices, operaciones digitales, aplicaciones.
-- [Ejercicios propuestos 2](https://vasanza.blogspot.com/2018/01/sistemas-digitales-2-leccion-propuesta.html): Determinación de la mejor trayectoria para un drone, basado en datos almacenados en RAM.
-- [Ejercicios resueltos 1](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales_17.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM.
-- [Ejercicios resueltos 2](https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM en VHDL.
-- [Ejercicios resueltos 3](https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html): Busqueda del valor que más se repite en una RAM.
-- [Ejercicios resueltos 4](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales.html): Ordenamientos de valores almacenados en memoria RAM de mayor a menor.
-- [Ejercicios resueltos 5](https://vasanza.blogspot.com/2017/01/ejemplo-de-taller-sistema-digital.html): Extracción de características de señales EEG almacenadas en RAM.
-- [Ejercicios resueltos 6](https://vasanza.blogspot.com/2020/12/leccion-sistemas-digitales-2-2do.html): Extracción de Características de datos temporales almacenados en memoria RAM.
-- [Ejercicios resueltos 7](https://vasanza.blogspot.com/2017/02/lecciones-sistemas-digitales-ii-2do.html): Calculo del perímetro de un polígono y Clasificación de vocales mayúsculas.
-- [Ejercicios resueltos 8](https://vasanza.blogspot.com/2017/08/tema-leccion-sistemas-digitales-ii-2do.html): Calculo de frecuencia de una señal periódica almacenada en RAM.
-- [Ejercicios resueltos 9](https://vasanza.blogspot.com/2017/02/examen-sistemas-digitales-sdmsa-2do.html): Clasificador de features almacenados en RAM desde programación en VHDL.
-
-## 8. Arquitectura de Microprocesadores
-- [Video 1](https://www.youtube.com/watch?v=Xma-bvUI-e8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=5&t=3126s): Comparación entre Microcontroladores, Mmicroprocesadores, SoCs y FPGA.
-- [Video 2](https://www.youtube.com/watch?v=Sc5--d7hnN0&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=10&t=1363s): Fundamentos de Microprocesadores y Sistemas Embebidos.
-- [Video 3](https://www.youtube.com/watch?v=9PJScPknzhY&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=4&t=1164s): Arquitectura de un Microprocesador Genérico.
-- [Video 4](https://www.youtube.com/watch?v=UdNjA-8QmtU&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=3&t=2s): Arquitectura de un Microprocesador Genérico v2.
-- [Video 5](https://www.youtube.com/watch?v=zKjPHsazdcA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=2&t=180s): Simulación de un Microprocesador Genérico.
-- [Ejercicios resueltos 1](https://vasanza.blogspot.com/2018/09/solucion-examen-sistemas-digitales-2.html): Arquietectura fija MSS + ALU para para determinar el valor máximo y mínimo almacenado en RAM.
-- [Ejercicios resueltos 2](https://vasanza.blogspot.com/2019/01/sistemas-digitales-2-leccion-propuesta.html): Arquietectura fija MSS + ALU para para determinar las repeticiones del valor más alto en RAM.
-- [Ejercicios resueltos 3](https://vasanza.blogspot.com/2019/01/sistemas-digitales-2-examen-resuelto.html): Arquietectura fija MSS + ALU para para ingresar y determinar el valor máximo y mínimo almacenado en RAM.
-- [Ejercicios resueltos 4](https://vasanza.blogspot.com/2022/01/solucion-leccion-sistemas-digitales-2.html): Microprocesador Genérico y su aplicación en un sistema distribuido.
-- [Ejercicios resueltos 5](https://vasanza.blogspot.com/2019/02/sistemas-digitales-2-examen-resuelto.html): Programación en lenguaje C.
-- [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2021PAO2/Practica_MicroProcesador): Arquitectura de un Microprocesador Genérico en VHDL.
-
 ## Temas de proyectos
 - [Sistemas Digitales 1](https://vasanza.blogspot.com/2021/05/sistemas-digitales-1-proyectos.html): Proyectos basados en MSS.
 - [Sistemas Digitales 2](https://vasanza.blogspot.com/2021/06/sistemas-digitales-2-proyectos.html): Proyectos basados en memorias RAM v1.
@@ -132,17 +96,6 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - [Ejemplo 2](https://vasanza.blogspot.com/2016/11/sd-diseno-de-una-maquina-controladora.html): Access control system (2).
 - [Ejemplo 3](https://vasanza.blogspot.com/2015/12/sistema-acondicionamiento-de.html): Temperature Conditioner.
 - [Ejemplo 4](https://vasanza.blogspot.com/2015/12/sistema-de-facturacion-por-llamadas-en.html): Billing system for telephone booths.
-- [Ejemplo 5](https://vasanza.blogspot.com/2015/11/diseno-de-un-sistema-digital-receptor.html): Serial communication receiver.
-- [Ejemplo 6](https://vasanza.blogspot.com/2015/11/sistema-digital-contador-de.html): Numeric Sequence Counter.
-- [Ejemplo 7](https://vasanza.blogspot.com/2015/11/diseno-de-un-sistema-digital-contador.html): Consecutive 1's Counter.
-- [Ejemplo 8](https://vasanza.blogspot.com/2015/10/sistema-multiplicador-de-matrices-3x4-y.html): Multiplying 3x4 matrix by 4x3 matrix.
-- [Ejemplo 9](https://vasanza.blogspot.com/2015/10/sistema-de-comunicacion-con-validacion_8.html): Sum of Products Karnaugh Map.
-- [Ejemplo 10](https://vasanza.blogspot.com/2015/10/sistema-checksum-en-vhdl-con-fpga-de.html): communication and checksum validation.
-- [Ejemplo 11](https://vasanza.blogspot.com/2015/10/sistema-de-operacion-entre-conjuntos.html): set operations.
-- [Ejemplo 12](https://vasanza.blogspot.com/2015/09/proyecto3-de-laboratorio-de-digitales.html): Number Sequence Detector.
-- [Ejemplo 13](https://vasanza.blogspot.com/2015/09/proyecto-vhdl-detector-eficiente-de.html): Efficient Number Sequence Detector.
-- [Ejemplo 14](https://vasanza.blogspot.com/2015/09/determinante-de-una-matriz-con-quartus.html): Determinant of a matrix.
-
 
 # Información adicional
 ## Drive con Presentaciones, ejemplos resueltos y videos
@@ -166,19 +119,14 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - [Víctor Asanza](https://vasanza.blogspot.com/p/about-me.html)
 
 # Related work (FPGA applications)
-- http://blog.espol.edu.ec/sistemasdigitalesfiec
-- https://ieeexplore.ieee.org/abstract/document/9530151
-- https://ieeexplore.ieee.org/abstract/document/9232863
-- https://link.springer.com/chapter/10.1007%2F978-3-030-59194-6_17
-- https://ieeexplore.ieee.org/document/9096752
-- https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html
-- https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html
+- [#EMG signal #Classification with #MachineLearning based on #FPGA](https://vasanza.blogspot.com/2021/01/emg-signal-processing-with.html)
 
 # IDE
-- Quartus Prime 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+- Arduino
+- https://vasanza.blogspot.com/2021/10/practica-1-tsclab-initial-setups-and.html
 
 # DEVICE
-- FPGA Cyclone V SE 5CSEBA6U23I7
+- [ESP32](https://vasanza.blogspot.com/2020/03/materia-desarrollo-de-prototipos.html)
 
 # HARDWARE TERASIC 
 - DE10NANO
@@ -187,7 +135,7 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 # Keynote
 ## CLONE
 - git status
-- git clone https://github.com/VHDL-Digital-Systems/MSI-VHDL.git
+- git clone https://github.com/vasanza/EMG-Wearable.git
 
 ## SWITCHED TO BRANCH
 - git branch -a
