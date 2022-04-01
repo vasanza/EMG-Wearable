@@ -15,11 +15,11 @@
 
 # Contenido
 ## 1- EMG signal descriptive videos
-- [Video 1](https://emg-lab.blogspot.com/2022/03/electromiografia.html)
-- [Video 2](https://emg-lab.blogspot.com/2022/03/emg-electromyography-in-biomechanics.html)
-- [Video 3](https://emg-lab.blogspot.com/2022/03/emg-and-action-potentials.html)
-- [Video 4](https://emg-lab.blogspot.com/2022/03/emg-ii-electromyography-ii-muscle.html)
-- [Video 5](https://emg-lab.blogspot.com/2022/03/electromyography-emg-basics-muscle.html)
+- [Video 1](https://emg-lab.blogspot.com/2022/03/electromiografia.html): Electromiografia.
+- [Video 2](https://emg-lab.blogspot.com/2022/03/emg-electromyography-in-biomechanics.html): EMG-electromyography-in-biomechanics.
+- [Video 3](https://emg-lab.blogspot.com/2022/03/emg-and-action-potentials.html): EMG-and-action-potentials.
+- [Video 4](https://emg-lab.blogspot.com/2022/03/emg-ii-electromyography-ii-muscle.html): EMG-ii-electromyography-ii-muscle.
+- [Video 5](https://emg-lab.blogspot.com/2022/03/electromyography-emg-basics-muscle.html): Electromyography-emg-basics-muscle. 
 
 ## 2- Publications based on EMG signals
 - [Asanza, V., Peláez, E., Loayza, F., Mesa, I., Díaz, J., & Valarezo, E. (2018, October). EMG Signal Processing with Clustering Algorithms for motor gesture Tasks. In 2018 IEEE Third Ecuador Technical Chapters Meeting (ETCM) (pp. 1-6). IEEE.](https://ieeexplore.ieee.org/abstract/document/8580270)
@@ -29,12 +29,15 @@
 - [Asanza, V., Avilés-Mendoza, K., Trivino-Gonzalez, H., Rosales-Uribe, F., Torres-Brunes, J., Loayza, F. R., ... & Tinoco-Egas, R. (2021). SSVEP-EEG Signal Classification based on Emotiv EPOC BCI and Raspberry Pi. IFAC-PapersOnLine, 54(15), 388-393.](https://www.sciencedirect.com/science/article/pii/S240589632101692X?via%3Dihub)
 - [OpenBCI_Data_Acquisition](https://github.com/Human-Machine-Interface/OpenBCI_Data_Acquisition)
 
-## 4- Analog Signal Acquisition based on ESP32
-- 
-
-## 5- Matlab programming examples
+## 4- Matlab programming examples
 - [Machine Learning #ML using #Matlab](https://vasanza.blogspot.com/2019/06/machine-learning-ml-using-matlab.html)
 - [#EMG signal classification with Machine Learning #ML using #Matlab](https://vasanza.blogspot.com/2020/01/alphabet-letters-recognition-with.html)
+
+## 5- Analog Signal Acquisition based on ESP32
+- [AnalogRead](https://www.arduino.cc/en/Reference/AnalogRead)
+- [ESP32AnalogRead](https://www.arduino.cc/reference/en/libraries/esp32analogread/)
+- [Analog to Digital Converter (ADC)](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/adc.html)
+- [**FreeRTOS example**](https://github.com/vasanza/EmbeddedSystems)
 
 ## 6- Projects based on EMG signals
 - [Tesis ESPOL](https://youtu.be/BtWI7uaIhds)
