@@ -1,7 +1,6 @@
 # ⭐⭐⭐⭐⭐ Electromyography (EMG)
-Altium Designer for Electromyography (EMG)
-En este repositorio puedes encontrar códigos de bloques de Mediana Escala de Integración (MSI) para utilizar en tus diseños digitales.
-Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán útiles para el diseño de Sistemas Digitales:
+**En este repositorio puedes encontrar códigos de bloques de Mediana Escala de Integración (MSI) para utilizar en tus diseños digitales.
+Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán útiles para el diseño de Sistemas Digitales:**
 ![image](https://user-images.githubusercontent.com/12642226/130822098-358c494d-9e2c-4d9f-90cf-2cf651de3a7d.png)
 
 # Board Shape
