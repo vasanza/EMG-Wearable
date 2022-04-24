@@ -13,7 +13,7 @@
 # is ready!
 ![EMG](https://user-images.githubusercontent.com/12642226/130655623-b489c470-55d8-461a-a40c-9fdc25498eb5.PNG)
 
-# Contenido
+# Content
 ## 1- EMG signal descriptive videos
 - [Video 1](https://emg-lab.blogspot.com/2022/03/electromiografia.html): Electromiografia.
 - [Video 2](https://emg-lab.blogspot.com/2022/03/emg-electromyography-in-biomechanics.html): EMG-electromyography-in-biomechanics.
@@ -53,7 +53,12 @@
 - **Paper 4:** [Behavioral Signal Processing with Machine Learning Based on FPGA](https://link.springer.com/chapter/10.1007%2F978-3-030-59194-6_17)
 - **Paper 5:** [Implementation of a Classification System of EEG Signals Based on FPGA](https://ieeexplore.ieee.org/document/9096752)
 
-## Repository technical specifications
+# Related work (EMG applications)
+- [#EMG signal #Classification with #MachineLearning based on #FPGA](https://vasanza.blogspot.com/2021/01/emg-signal-processing-with.html)
+- [#EEG + #EMG signal processing with #MachineLearning #ML based on #FPGA](https://vasanza.blogspot.com/2021/03/eeg-emg-signal-processing-with.html)
+- [Alphabet letters recognition with #MachineLearning using #EMG #MYO device based on #FPGA](https://vasanza.blogspot.com/2021/01/alphabet-letters-recognition-with.html)
+
+# Repository technical specifications
 - **IDE:** [Arduino](https://vasanza.blogspot.com/2021/10/practica-1-tsclab-initial-setups-and.html)
 - **DEVICE:** [ESP32](https://vasanza.blogspot.com/2020/03/materia-desarrollo-de-prototipos.html)
 - **MYOWARE SENSOR:**
@@ -65,11 +70,6 @@
 
 ## About
 - [Víctor Asanza](https://vasanza.blogspot.com/p/about-me.html)
-
-# Related work (EMG applications)
-- [#EMG signal #Classification with #MachineLearning based on #FPGA](https://vasanza.blogspot.com/2021/01/emg-signal-processing-with.html)
-- [#EEG + #EMG signal processing with #MachineLearning #ML based on #FPGA](https://vasanza.blogspot.com/2021/03/eeg-emg-signal-processing-with.html)
-- [Alphabet letters recognition with #MachineLearning using #EMG #MYO device based on #FPGA](https://vasanza.blogspot.com/2021/01/alphabet-letters-recognition-with.html)
 
 # Keynote
 ## Clone
