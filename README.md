@@ -72,18 +72,18 @@
 - [Alphabet letters recognition with #MachineLearning using #EMG #MYO device based on #FPGA](https://vasanza.blogspot.com/2021/01/alphabet-letters-recognition-with.html)
 
 # Keynote
-## CLONE
+## Clone
 - git status
 - git clone https://github.com/vasanza/EMG-Wearable.git
 
-## SWITCHED TO BRANCH
+## Switched to Branch
 - git branch -a
 - git checkout NameBranch
 
 ## New Branch
 - git checkout -b NameBranch
 
-## PUSH
+## Push
 - git pull origin NameBranch
 - git status
 - git add .
